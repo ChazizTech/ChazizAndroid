@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(chaziz_main)
-        twentypage.loadUrl("http://2003page.ga")
+        twentypage.loadUrl("2003page.ga")
         }
     }
 

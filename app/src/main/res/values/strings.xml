@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">Chaziz</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="this_is_test">this is test</string>
     <string name="chaziz_placeholder">This is a test for the Chaziz app.</string>
 </resources>

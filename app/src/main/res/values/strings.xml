@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Chaziz</string>
     <string name="chaziz_placeholder">This is a test for the Chaziz app.</string>
+    <string name="placeholder_logo_text">[Chaziz Logo]</string>
 </resources>
